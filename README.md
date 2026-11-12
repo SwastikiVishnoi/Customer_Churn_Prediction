@@ -1,4 +1,5 @@
 # Customer Churn Prediction
+**Live demo:** https://customerchurnprediction-gxeb9cfthylxm5q92tgyhh.streamlit.app/
 
 Predicts which telecom customers are likely to leave, explains why, and estimates the business value of a targeted retention campaign. Includes a Streamlit app for single-customer predictions.
 
